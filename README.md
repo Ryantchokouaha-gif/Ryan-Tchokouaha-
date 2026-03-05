@@ -15,7 +15,7 @@ Passionné par la data, la modélisation et l'analyse économique, je mobilise t
 - 🏛️ **Évaluation des politiques publiques** — doubles différences, variables instrumentales, régression discontinue, expérimentation aléatoire
 - 🌐 **Analyse économique** — modélisation macroéconomique, analyse de conjoncture, microéconomie appliquée
 
-Rigoureux et curieux, j'aime transformer des données brutes en **insights actionnables** et contribuer à des décisions fondées sur l'évidence.
+Rigoureux et curieux, j'aime transformer des données brutes en **insights actionnables** et contribuer à des décisions fondées sur analyses pertinentes.
 
 
 ---
