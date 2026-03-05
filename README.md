@@ -11,7 +11,7 @@
 
 Passionné par la data, la modélisation et l'analyse économique, je mobilise trois domaines de compétences complémentaires :
 
-- 📊 **Économétrie & Data Science** — modélisation statistique, machine learning, traitement et visualisation de données
+- 📊 **Économétrie & Data Science** — modélisation économétrique de tout type, machine learning, traitement et visualisation de données, modélisation des séries temporelles.
 - 🏛️ **Évaluation des politiques publiques** — doubles différences, variables instrumentales, régression discontinue, expérimentation aléatoire
 - 🌐 **Analyse économique** — modélisation macroéconomique, analyse de conjoncture, microéconomie appliquée
 
