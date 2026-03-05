@@ -6,7 +6,7 @@
 🏆 Lauréat de la **Bourse Excellence Eiffel** du gouvernement français
 
 ---
-
+ 
 ## 🧠 À propos de moi
 
 Passionné par la data, la modélisation et l'analyse économique, je mobilise trois domaines de compétences complémentaires :
