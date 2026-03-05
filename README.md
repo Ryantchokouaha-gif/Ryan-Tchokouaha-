@@ -1,123 +1,80 @@
-Ryan Tchokouaha
-Applied Economist | Macroeconomic Stability | Climate Economics | Data & Policy Analysis
+# 👋 Bonjour, je suis Ryan Tchokouaha
 
-🎓 Master en Économie Appliquée – Université Paris Cité
-🎓 Lauréat de la bourse Eiffel Excellence Scholarship Program
+🎓 Étudiant en **Master 1 Économie Appliquée** à l'Université Paris Cité  
+📍 Paris, France  
+🔍 En recherche d'un **stage de 4 à 6 mois** en Data Science / Analyse économique — disponible dès **avril 2026**  
+🏆 Lauréat de la **Bourse Excellence Eiffel** du gouvernement français
 
-👋 À propos de moi
+---
 
-Je suis économiste appliqué, spécialisé dans l’analyse quantitative des politiques publiques et des dynamiques macroéconomiques dans les pays en développement.
+## 🧠 À propos de moi
 
-Mes travaux portent principalement sur :
+Passionné par la data et la modélisation économique, je combine des compétences en **économétrie**, **statistiques** et **data science** pour analyser des phénomènes économiques complexes. Rigoureux et curieux, j'aime transformer des données brutes en insights actionnables.
 
-🌍 Changement climatique et stabilité macroéconomique
+---
 
-📈 Inflation, dette publique et vulnérabilités budgétaires
+## 🛠️ Compétences & Outils
 
-🏦 Systèmes financiers, inclusion financière et régulation
+### Langages & Librairies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1A4C7A?style=for-the-badge&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-🧮 Économétrie appliquée (micro & macro données en panel)
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-📊 Data science pour l’économie publique
+### Visualisation & Reporting
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Pack_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-Mon objectif professionnel à moyen terme est d’intégrer une institution internationale telle que le Fonds monétaire international afin de contribuer à l’analyse des risques macro-financiers et climatiques dans les économies vulnérables.
+---
 
-🔬 Axes de recherche actuels
-1️⃣ Changement climatique et stabilité des prix
+## 📂 Projets Académiques
 
-Je développe un cadre empirique pour analyser l’effet des chocs climatiques (température, précipitations) sur :
+### 🗳️ [Analyse des données électorales — Présidentielle France 2022](lien_vers_repo)
+> Analyse de la structure du vote et clustering des comportements électoraux par département.  
+> `Python` · `Pandas` · `K-means` · `CAH` · `AFC` · `Matplotlib`
 
-l’inflation moyenne
+### 🏦 [Déterminants de la bancarisation en Côte d'Ivoire](lien_vers_repo)
+> Modélisation de l'effet du salaire sur la probabilité d'être bancarisé sur un échantillon de 4 564 individus (enquête 2021–2022).  
+> `R Studio` · `Probit` · `Logit` · `Statistiques descriptives`
 
-la volatilité de l’inflation
+### 🌍 [Changement climatique & stabilité macroéconomique](lien_vers_repo)
+> Estimation économétrique sur un panel de 109 pays en développement (1996–2023).  
+> `Stata` · `Excel` · `Effets fixes` · `GMM` · `Variables instrumentales` · `Driscoll-Kraay`
 
-la probabilité d’instabilité des prix (approche logit/probit avec seuils inspirés des standards du Fonds monétaire international)
+---
 
-Approche méthodologique :
+## 💼 Expériences
 
-Modèles de panel (effets fixes / aléatoires)
+- **Ingénieur d'études (Stage)** — *Women in Climate Change*, Yaoundé (2025)  
+  Nettoyage de séries temporelles climatiques, rédaction de sections quantitatives pour des rapports pré-COP30.
 
-Tests de stationnarité et cointégration
+- **Chargé d'études statistiques (Stage)** — *Ministère des Marchés Publics*, Yaoundé (2024)  
+  Analyse des données du système électronique de passation des marchés publics.
 
-Correction d’hétéroscédasticité et autocorrélation
+---
 
-Estimations robustes sous STATA
+## 🏅 Distinctions
 
-Modélisation logit/probit pour la stabilité macro
+- 🥇 **Bourse Excellence Eiffel** — Ministère de l'Europe et des Affaires étrangères (2025)
+- 🥇 **Major de Licence** — 1er sur 319 étudiants
+- 🥈 **Vice-Major de Master** — 2e sur 289 étudiants
+- 🎖️ Primes d'excellence académique du gouvernement camerounais (2022, 2023, 2024, 2025)
 
-2️⃣ Stabilité budgétaire et soutenabilité de la dette
+---
 
-Analyse de l’impact du climat sur :
+## 📫 Me contacter
 
-le ratio dette/PIB
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-tchokouaha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryantchokouaha@gmail.com)
 
-les recettes fiscales
+---
 
-les déséquilibres extérieurs
+*"Turning data into decisions."*
 
-la contrainte budgétaire intertemporelle
-
-Objectif : comprendre si le changement climatique agit comme un amplificateur de fragilité budgétaire dans les pays en développement.
-
-🛠️ Compétences techniques
-📊 Économétrie
-
-Données de panel
-
-Logit / Probit / Logit ordonné / Multinomial
-
-Tests diagnostics complets (hétéroscédasticité, autocorrélation, multicolinéarité)
-
-Interprétation économique des coefficients et odds ratios
-
-💻 Outils
-
-STATA (modélisation avancée panel & robustesse)
-
-R (visualisation, tables académiques, modèles discrets)
-
-Python (manipulation et traitement de données)
-
-LaTeX (rédaction académique avancée)
-
-Zotero + BibTeX (gestion bibliographique scientifique)
-
-Je produis des livrables complets :
-
-rapports d’analyse économique
-
-notes de synthèse
-
-revues de littérature critiques
-
-tableaux académiques prêts à publication
-
-📚 Approche académique
-
-Je m’appuie sur la littérature de rang 1 et 2 en macroéconomie et économie du développement pour :
-
-confronter théories opposées
-
-structurer des cadres conceptuels robustes
-
-articuler clairement identification empirique et interprétation économique
-
-Je privilégie une approche :
-
-rigoureuse méthodologiquement, claire économiquement, et orientée décision publique.
-
-🎯 Objectif professionnel
-
-À horizon 5–7 ans :
-
-Intégrer une institution internationale (FMI, banque multilatérale, organisation régionale)
-
-Contribuer à l’analyse des risques macro-financiers liés au climat
-
-Produire des policy papers à forte valeur analytique
-
-📬 Contact
-
-📍 Paris, France
-📧 Disponible sur demande
-🔗 LinkedIn / GitHub (à compléter)
