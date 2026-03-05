@@ -2,7 +2,7 @@
 
 🎓 Étudiant en **Master 1 Économie Appliquée** à l'Université Paris Cité  
 📍 Paris, France  
-🔍 En recherche d'un **stage de 4 à 6 mois** en Data Science / Analyse économique — disponible dès **avril 2026**  
+🔍 En recherche d'un **stage de 4 à 6 mois** — disponible dès **avril 2026**  
 🏆 Lauréat de la **Bourse Excellence Eiffel** du gouvernement français
 
 ---
@@ -12,8 +12,8 @@
 Passionné par la data, la modélisation et l'analyse économique, je mobilise trois domaines de compétences complémentaires :
 
 - 📊 **Économétrie & Data Science** — modélisation statistique, machine learning, traitement et visualisation de données
-- 🏛️ **Évaluation des politiques publiques** — doubles différences, variables instrumentales, régression discontinue, expérimentation aléatoire
-- 🌐 **Analyse économique** — modélisation macroéconomique, analyse de conjoncture, microéconomie appliquée
+- 🏛️ **Évaluation des politiques publiques** — doubles différences, variables instrumentales, régression discontinue, expérimentation aléatoire, les méthodes de matching.
+- 🌐 **Analyse économique** — modélisation macroéconomique, analyse de conjoncture,analyse des comportements individuels, analyse des défaillances de marché et des décisions publiques, recherche en économie.
 
 Rigoureux et curieux, j'aime transformer des données brutes en **insights actionnables** et contribuer à des décisions fondées sur l'évidence.
 
