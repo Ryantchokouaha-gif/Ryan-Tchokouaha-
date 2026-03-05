@@ -80,23 +80,18 @@ Formation axée sur l'analyse économique empirique et la modélisation quantita
 
 ---
 
+
 ## 💼 Expériences Professionnelles
 
-- **Ingénieur d'études (Stage)** — *Women in Climate Change*, Yaoundé (01/2025 - 08/2025)  
+**🌱 Ingénieur d'études (Stage)** — *Women in Climate Change*, Yaoundé · *Janvier 2025 – Août 2025*
 
-Nettoyer et restructurer une série temporelle climatique longue (1990–2023) réduisant de 95 % les valeurs
-manquantes et incohérences, et renforçant la fiabilité des analyses économétriques à partir de bases de données de l'Institut Nationale de la Statistique, Contribuer à l'écriture des sections quantitatives pour trois rapports stratégiques, intégrant indicateurs
-statistiques, graphiques et synthèses, qui ont alimenté les recommandations portées par l’ONG dans les
-discussions pré‐COP30.
+- Nettoyage et restructuration d'une série temporelle climatique longue **(1990–2023)** à partir des bases de données de l'Institut National de la Statistique, réduisant de **95 %** les valeurs manquantes et incohérences, renforçant ainsi la fiabilité des analyses économétriques
+- Rédaction des sections quantitatives de **3 rapports stratégiques** (indicateurs statistiques, graphiques, synthèses) ayant directement alimenté les recommandations portées par l'ONG dans les discussions **pré-COP30**
 
-- **Chargé d'études statistiques (Stage)** — *Ministère des Marchés Publics*, Yaoundé ( 06/2024 - 08/2024)
+**📊 Chargé d'études statistiques (Stage)** — *Ministère des Marchés Publics*, Yaoundé · *Juin 2024 – Août 2024*
 
-Traitement, structuration et analyse des données générées par le système électronique de passation des
-marchés, permettant de mesurer l’adoption de la réforme et d’identifier les goulets d’étranglement dans les
-processus. Développer des templates PowerPoint optimisés, permettant de pré‐structurer 90 % des présentations des
-responsables, ce qui a accéléré la préparation des supports et renforcé la cohérence du reporting
-institutionnel
-
+- Traitement, structuration et analyse des données générées par le système électronique de passation des marchés, permettant de mesurer l'adoption de la réforme et d'identifier les **goulets d'étranglement** dans les processus
+- Développement de templates PowerPoint optimisés, permettant de pré-structurer **90 %** des présentations des responsables, accélérant la préparation des supports et renforçant la cohérence du reporting institutionnel
 
 
 ---
