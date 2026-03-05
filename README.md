@@ -90,11 +90,15 @@ statistiques, graphiques et synthèses, qui ont alimenté les recommandations po
 discussions pré‐COP30.
 
 - **Chargé d'études statistiques (Stage)** — *Ministère des Marchés Publics*, Yaoundé ( 06/2024 - 08/2024)
+
 Traitement, structuration et analyse des données générées par le système électronique de passation des
 marchés, permettant de mesurer l’adoption de la réforme et d’identifier les goulets d’étranglement dans les
 processus. Développer des templates PowerPoint optimisés, permettant de pré‐structurer 90 % des présentations des
 responsables, ce qui a accéléré la préparation des supports et renforcé la cohérence du reporting
 institutionnel
+
+
+
 ---
 
 ## 🏅 Distinctions
