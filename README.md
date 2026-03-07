@@ -49,7 +49,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 > Analyse de la structure du vote et clustering des comportements électoraux par département.  
 > `Python` · `Pandas` · `K-means` · `CAH` · `AFC` · `Matplotlib`
 >
-> lien: https://github.com/Ryantchokouaha-gif/Election-pr-sidentielle-France-2022.
+> lien: [https://github.com/Ryantchokouaha-gif/Election-pr-sidentielle-France-2022](lien_vers_repo).
 
 ### 🏦 **Déterminants de la bancarisation en Côte d'Ivoire**
 > Modélisation de l'effet du salaire sur la probabilité d'être bancarisé sur un échantillon de 4 564 individus (enquête 2021–2022).  
