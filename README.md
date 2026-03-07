@@ -52,9 +52,12 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 >  `Jupiter Notebook` · `Python` · `AFC` · `Clustering`
 
 
-### 🏦 **Déterminants de la bancarisation en Côte d'Ivoire**
-> Modélisation de l'effet du salaire sur la probabilité d'être bancarisé sur un échantillon de 4 564 individus (enquête 2021–2022).  
-> `R Studio` · `Probit` · `Logit` · `Statistiques descriptives`
+### 🏦 **[Modélisation des séries temporelles: Prévison  du prix des matières prémières]**
+>Modélisation des prix mensuels des matières premières (Banque Mondiale, 2000–présent) selon la méthodologie Box-Jenkins.
+>stationnarisation, identification des processus candidats AR(1), MA(1) et ARMA(1,1) via ACF/PACF, estimation par maximum de vraisemblance.
+> Seuls l'AR(1) et le MA(1) sont retenus pour la significativité de leurs coefficients.
+> Après validation des résidus (Ljung-Box, ARCH) et sélection par AIC/BIC, le modèle MA(1) est utilisé pour des prévisions à 8 et 20 mois.
+> `R Studio` · `Procédure Box-Jenkins` · `Processus Auto-regressif Moving Average`
 
 ### 🌍**[Effets du changement climatique sur la stabilité macroéconomique dans les pays en développement](https://github.com/Ryantchokouaha-gif/Effets-du-changement-climatique-sur-la-stabilite-macroeconomique)**
 >  Analyse des effets du changement climatique sur la stabilité des prix et la stabilité budgétaire dans un panel de **109 pays en développement (1996–2023)**.
