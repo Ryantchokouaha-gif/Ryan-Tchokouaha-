@@ -1,1 +1,111 @@
 
+<div align="center">
+
+# 🗳️ Analyse des Données Électorales — Présidentielle France 2022
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+
+*Projet de Data Science — Master 1 Économie Appliquée, Université Paris Cité (2025–2026)*  
+*Supervisé par Mr Sébastien Cochinard et Mr Taoufik El Achi*
+
+</div>
+
+---
+
+## 📌 Objectif
+
+Analyser la **structure du vote** lors de l'élection présidentielle française de 2022 et identifier des **regroupements de régions** selon leurs similarités électorales, à partir d'un tableau de contingence croisant candidats et régions.
+
+
+---
+
+## 🗃️ Données
+
+- **Source** : Résultats officiels de l'élection présidentielle française 2022
+- **Format** : Tableau de contingence — Régions (lignes) × Candidats (colonnes)
+- **Couverture** : 18 régions françaises · 12 candidats au T1 · 2 finalistes au T2
+- **Variables clés** : Nombre de voix par candidat et par région, pour les deux tours
+
+---
+
+## 🔬 Méthodologie
+
+Le projet s'articule autour de **trois grandes étapes** :
+
+### 1️⃣ Analyse Descriptive
+- Statistiques descriptives par candidat (moyenne, écart-type, min, max)
+- Diagrammes en barres et boîtes à moustaches pour visualiser la distribution des voix
+- Analyse par région et par tour (focus sur l'Île-de-France et Auvergne-Rhône-Alpes)
+- **Matrice de corrélation** entre les candidats — révèle une forte co-variation régionale
+
+### 2️⃣ Réduction de Dimension — AFC (Analyse Factorielle des Correspondances)
+- Test d'indépendance du **Khi-deux** (p-value < 5% → dépendance confirmée → AFC pertinente)
+- Projection des candidats et des régions sur **2 axes factoriels** (63,24% + 17,88% d'inertie expliquée)
+- Analyse des **cosinus carrés** pour valider la qualité de projection
+
+### 3️⃣ Classification — CAH + K-means
+- **CAH** (Classification Ascendante Hiérarchique) sur les coordonnées factorielles — critère de Ward
+- Visualisation du **dendrogramme**
+- **Méthode du coude** pour déterminer le nombre optimal de clusters → **k = 3**
+- Validation et visualisation par **K-means**
+
+---
+
+## 📊 Principaux Résultats
+
+### Structure du vote au premier tour
+> Macron, Le Pen et Mélenchon concentrent l'essentiel des suffrages. Les 9 autres candidats restent bien en dessous en volume de voix.
+
+### Axes factoriels de l'AFC
+| Axe | Variance expliquée | Interprétation |
+|:---:|:---:|:---|
+| Axe 1 | 63,24% | Opposition **Macron / Pécresse / Jadot** (gauche) vs **Le Pen / Lassalle** (droite) |
+| Axe 2 | 17,88% | Singularité de **Mélenchon** — électorat concentré dans les DOM-TOM |
+
+### Clusters identifiés (K-means, k=3)
+
+| Cluster | Régions | Profil électoral |
+|:---:|:---|:---|
+| 🔵 **0** | Guadeloupe, Guyane, La Réunion, Martinique | Faibles volumes · Forte singularité · Penchant Mélenchon |
+| 🟠 **1** | Île-de-France, Bretagne, Pays de la Loire, Normandie, Nouvelle-Aquitaine, Auvergne-Rhône-Alpes, Centre-Val de Loire, Occitanie | Volumes élevés · Compétition intense · Macron dominant |
+| 🟢 **2** | Hauts-de-France, Grand Est, PACA, Corse, Bourgogne-Franche-Comté, Mayotte | Volumes intermédiaires · Forte présence Le Pen |
+
+
+## 👥 Auteurs
+
+Projet réalisé en groupe dans le cadre du Master 1 Économie Appliquée — Université Paris Cité :
+
+- **Ryan Jordan TCHOKOUAHA TCHAHA**
+- Ivan AKA KODJA
+- David Justin ONDO
+- Wiam BENKOUSSAS
+- Marana SALLOUM
+
+---
+
+## 📄 Licence
+
+Ce projet est réalisé dans un cadre académique. Les données utilisées sont issues de sources officielles publiques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
