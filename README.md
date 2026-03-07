@@ -56,8 +56,10 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 > Modélisation de l'effet du salaire sur la probabilité d'être bancarisé sur un échantillon de 4 564 individus (enquête 2021–2022).  
 > `R Studio` · `Probit` · `Logit` · `Statistiques descriptives`
 
-### 🌍 **Changement climatique & stabilité macroéconomique**
-> Estimation économétrique sur un panel de 109 pays en développement (1996–2023).  
+### 🌍 **[Effets duChangement climatique sur la stabilité macroéconomique dans les pays en développement](https://github.com/Ryantchokouaha-gif/Effets-du-changement-climatique-sur-la-stabilite-macroeconomique)**
+>  Analyse des effets du changement climatique sur la stabilité des prix et la stabilité budgétaire dans un panel de **109 pays en développement (1996–2023)**.
+>  Une hausse de +1°C entraîne une **augmentation des prix de +24,2%** et une **hausse de la dette extérieure de +29,9%**.
+> Méthodes économétriques: Les Moindres carrés ordianaires avec effets fixes et Driscoll-Kraay, La méthode des moments généralisés et variables instrumentales (Lewbel).
 > `Stata` · `Excel` · `Effets fixes` · `GMM` · `Variables instrumentales` · `Driscoll-Kraay`
 
 ---
