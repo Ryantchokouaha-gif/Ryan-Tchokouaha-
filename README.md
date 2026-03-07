@@ -42,6 +42,23 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 ---
 
+## 📂 Projets Académiques
+
+### 🗳️ [Analyse des données électorales — Présidentielle France 2022](lien_vers_repo)
+> Analyse de la structure du vote et clustering des comportements électoraux par département.  
+> `Python` · `Pandas` · `K-means` · `CAH` · `AFC` · `Matplotlib`
+
+### 🏦 [Déterminants de la bancarisation en Côte d'Ivoire](lien_vers_repo)
+> Modélisation de l'effet du salaire sur la probabilité d'être bancarisé sur un échantillon de 4 564 individus (enquête 2021–2022).  
+> `R Studio` · `Probit` · `Logit` · `Statistiques descriptives`
+
+### 🌍 [Changement climatique & stabilité macroéconomique](lien_vers_repo)
+> Estimation économétrique sur un panel de 109 pays en développement (1996–2023).  
+> `Stata` · `Excel` · `Effets fixes` · `GMM` · `Variables instrumentales` · `Driscoll-Kraay`
+
+---
+
+
 ## 🎓 Formation
 
 ### Master 1 — Économie Appliquée | Université Paris Cité *(2025 – 2026)*
@@ -66,21 +83,7 @@ Formation axée sur l'analyse économique empirique et la modélisation quantita
 
 ---
 
-## 📂 Projets Académiques
 
-### 🗳️ [Analyse des données électorales — Présidentielle France 2022](lien_vers_repo)
-> Analyse de la structure du vote et clustering des comportements électoraux par département.  
-> `Python` · `Pandas` · `K-means` · `CAH` · `AFC` · `Matplotlib`
-
-### 🏦 [Déterminants de la bancarisation en Côte d'Ivoire](lien_vers_repo)
-> Modélisation de l'effet du salaire sur la probabilité d'être bancarisé sur un échantillon de 4 564 individus (enquête 2021–2022).  
-> `R Studio` · `Probit` · `Logit` · `Statistiques descriptives`
-
-### 🌍 [Changement climatique & stabilité macroéconomique](lien_vers_repo)
-> Estimation économétrique sur un panel de 109 pays en développement (1996–2023).  
-> `Stata` · `Excel` · `Effets fixes` · `GMM` · `Variables instrumentales` · `Driscoll-Kraay`
-
----
 
 
 ## 💼 Expériences Professionnelles
