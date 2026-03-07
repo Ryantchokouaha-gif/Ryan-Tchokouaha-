@@ -49,6 +49,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 > Analyse de la structure du vote lors de la présidentielle 2022 à partir d'un tableau de contingence croisant 12 candidats et 18 régions.
 > L'étude mobilise des statistiques descriptives, une AFC pour réduire la dimension, et une CAH couplée au K-means pour identifier 3 clusters régionaux aux comportements électoraux distincts.
+>  `Jupiter Notebook` · `Python` · `AFC` · `Clustering`
 
 
 ### 🏦 **Déterminants de la bancarisation en Côte d'Ivoire**
