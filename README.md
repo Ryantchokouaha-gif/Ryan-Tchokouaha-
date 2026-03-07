@@ -52,7 +52,13 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 >  `Jupiter Notebook` · `Python` · `AFC` · `Clustering`
 
 
-### 🏥**[Revue de littérature: Effets des Systèmes de Remboursement de Soins de Santé sur l'Accès aux Soins]
+### 🏥**[Revue de littérature: Effets des Systèmes de Remboursement de Soins de Santé sur l'Accès aux Soins](https://github.com/Ryantchokouaha-gif/Revue-de-litterature_-Effets-des-systemes-de-remboursement-sur-l-acces-aux-soins)**
+> Cette revue de littérature analyse de manière critique les effets des principaux mécanismes de remboursement des soins de santé sur l'accès aux soins. En mobilisant cinq articles majeurs classés CNU, l'objectif est d'identifier les mécanismes théoriques et empiriques par lesquels les modes de remboursement influencent l'utilisation des services, la qualité des soins et les inégalités d'accès.
+> Question de recherche :  Quels sont les effets des systèmes de remboursement sur l'accès aux soins?
+> `Latex` · `Zotero` · `Google scholar` 
+
+Quels sont les effets des systèmes de remboursement de soins sur l'accès aux soins ?.
+
 
 
 ### 🏦 **[Modélisation des séries temporelles: Prévison  du prix des matières prémières](https://github.com/Ryantchokouaha-gif/Methodologie-Box-et-Jenkins-Application-sur-le-prix-du-petrole)**
