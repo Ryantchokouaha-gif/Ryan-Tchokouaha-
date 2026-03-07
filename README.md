@@ -52,7 +52,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 >  `Jupiter Notebook` · `Python` · `AFC` · `Clustering`
 
 
-### 🏦 **[Modélisation des séries temporelles: Prévison  du prix des matières prémières]**
+### 🏦 **[Modélisation des séries temporelles: Prévison  du prix des matières prémières](https://github.com/Ryantchokouaha-gif/Methodologie-Box-et-Jenkins-Application-sur-le-prix-du-petrole)**
 >Modélisation des prix mensuels des matières premières (Banque Mondiale, 2000–présent) selon la méthodologie Box-Jenkins.
 >stationnarisation, identification des processus candidats AR(1), MA(1) et ARMA(1,1) via ACF/PACF, estimation par maximum de vraisemblance.
 > Seuls l'AR(1) et le MA(1) sont retenus pour la significativité de leurs coefficients.
