@@ -52,6 +52,9 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 >  `Jupiter Notebook` · `Python` · `AFC` · `Clustering`
 
 
+### 🏥**[Revue de littérature: Effets des Systèmes de Remboursement de Soins de Santé sur l'Accès aux Soins]
+
+
 ### 🏦 **[Modélisation des séries temporelles: Prévison  du prix des matières prémières](https://github.com/Ryantchokouaha-gif/Methodologie-Box-et-Jenkins-Application-sur-le-prix-du-petrole)**
 >Modélisation des prix mensuels des matières premières (Banque Mondiale, 2000–présent) selon la méthodologie Box-Jenkins.
 >stationnarisation, identification des processus candidats AR(1), MA(1) et ARMA(1,1) via ACF/PACF, estimation par maximum de vraisemblance.
