@@ -43,7 +43,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 ---
 
-## 📂 Projets Académiques
+## 📂 Projets récents
 
 ### 🗳️**[Analyse des données électorales — Présidentielle France 2022](https://github.com/Ryantchokouaha-gif/Analyse_des_donnees-electorales-Presidentielle_France_2022)**
 
