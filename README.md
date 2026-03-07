@@ -57,10 +57,6 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 > Question de recherche :  Quels sont les effets des systèmes de remboursement sur l'accès aux soins?
 > `Latex` · `Zotero` · `Google scholar` 
 
-Quels sont les effets des systèmes de remboursement de soins sur l'accès aux soins ?.
-
-
-
 ### 🏦 **[Modélisation des séries temporelles: Prévison  du prix des matières prémières](https://github.com/Ryantchokouaha-gif/Methodologie-Box-et-Jenkins-Application-sur-le-prix-du-petrole)**
 >Modélisation des prix mensuels des matières premières (Banque Mondiale, 2000–présent) selon la méthodologie Box-Jenkins.
 >stationnarisation, identification des processus candidats AR(1), MA(1) et ARMA(1,1) via ACF/PACF, estimation par maximum de vraisemblance.
