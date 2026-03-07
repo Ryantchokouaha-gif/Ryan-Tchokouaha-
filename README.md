@@ -45,7 +45,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 ## 📂 Projets Académiques
 
-### 🗳️ [Analyse des données électorales — Présidentielle France 2022]
+### 🗳️[Analyse des données électorales — Présidentielle France 2022]
 > Analyse de la structure du vote et clustering des comportements électoraux par département.  
 > `Python` · `Pandas` · `K-means` · `CAH` · `AFC` · `Matplotlib`
 
