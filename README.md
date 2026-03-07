@@ -45,15 +45,15 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 ## 📂 Projets Académiques
 
-### 🗳️[Analyse des données électorales — Présidentielle France 2022]
+### 🗳️**Analyse des données électorales — Présidentielle France 2022**
 > Analyse de la structure du vote et clustering des comportements électoraux par département.  
 > `Python` · `Pandas` · `K-means` · `CAH` · `AFC` · `Matplotlib`
 
-### 🏦 [Déterminants de la bancarisation en Côte d'Ivoire]
+### 🏦 **Déterminants de la bancarisation en Côte d'Ivoire**
 > Modélisation de l'effet du salaire sur la probabilité d'être bancarisé sur un échantillon de 4 564 individus (enquête 2021–2022).  
 > `R Studio` · `Probit` · `Logit` · `Statistiques descriptives`
 
-### 🌍 [Changement climatique & stabilité macroéconomique]
+### 🌍 **Changement climatique & stabilité macroéconomique**
 > Estimation économétrique sur un panel de 109 pays en développement (1996–2023).  
 > `Stata` · `Excel` · `Effets fixes` · `GMM` · `Variables instrumentales` · `Driscoll-Kraay`
 
