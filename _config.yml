@@ -1,4 +1,5 @@
-theme: jekyll-theme-leap-day
 title: Ryan Tchokouaha
+logo: img//nny.jpg
 description: Économiste · Analyste quantitatif
- 
+theme: jekyll-theme-minimal
+lang: fr
