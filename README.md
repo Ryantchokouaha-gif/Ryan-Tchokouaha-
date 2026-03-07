@@ -49,12 +49,14 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 > Analyse de la structure du vote lors de la présidentielle 2022 à partir d'un tableau de contingence croisant 12 candidats et 18 régions.
 > L'étude mobilise des statistiques descriptives, une AFC pour réduire la dimension, et une CAH couplée au K-means pour identifier 3 clusters régionaux aux comportements électoraux distincts.
+
 >  `Jupiter Notebook` · `Python` · `AFC` · `Clustering`
 
 
-### 🏥**[Revue de littérature: Effets des Systèmes de Remboursement de Soins de Santé sur l'Accès aux Soins](https://github.com/Ryantchokouaha-gif/Revue-de-litterature_-Effets-des-systemes-de-remboursement-sur-l-acces-aux-soins)**
+### 🏥**[Revue de littérature: Effets des Systèmes de Remboursement de soins de santé sur l'accès aux soins](https://github.com/Ryantchokouaha-gif/Revue-de-litterature_-Effets-des-systemes-de-remboursement-sur-l-acces-aux-soins)**
 > Cette revue de littérature analyse de manière critique les effets des principaux mécanismes de remboursement des soins de santé sur l'accès aux soins. En mobilisant cinq articles majeurs classés CNU, l'objectif est d'identifier les mécanismes théoriques et empiriques par lesquels les modes de remboursement influencent l'utilisation des services, la qualité des soins et les inégalités d'accès.
 > Question de recherche :  Quels sont les effets des systèmes de remboursement sur l'accès aux soins?
+
 > `Latex` · `Zotero` · `Google scholar` 
 
 ### 🏦 **[Modélisation des séries temporelles: Prévison  du prix des matières prémières](https://github.com/Ryantchokouaha-gif/Methodologie-Box-et-Jenkins-Application-sur-le-prix-du-petrole)**
@@ -62,12 +64,14 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 >stationnarisation, identification des processus candidats AR(1), MA(1) et ARMA(1,1) via ACF/PACF, estimation par maximum de vraisemblance.
 > Seuls l'AR(1) et le MA(1) sont retenus pour la significativité de leurs coefficients.
 > Après validation des résidus (Ljung-Box, ARCH) et sélection par AIC/BIC, le modèle MA(1) est utilisé pour des prévisions à 8 et 20 mois.
+
 > `R Studio` · `Procédure Box-Jenkins` · `Processus Auto-regressif Moving Average`
 
 ### 🌍**[Effets du changement climatique sur la stabilité macroéconomique dans les pays en développement](https://github.com/Ryantchokouaha-gif/Effets-du-changement-climatique-sur-la-stabilite-macroeconomique)**
 >  Analyse des effets du changement climatique sur la stabilité des prix et la stabilité budgétaire dans un panel de **109 pays en développement (1996–2023)**.
 >  Une hausse de +1°C entraîne une **augmentation des prix de +24,2%** et une **hausse de la dette extérieure de +29,9%**.
 > Méthodes économétriques: Les Moindres carrés ordianaires avec effets fixes et Driscoll-Kraay, La méthode des moments généralisés et variables instrumentales (Lewbel).
+
 > `Stata` · `Excel` · `Effets fixes` · `GMM` · `Variables instrumentales` · `Driscoll-Kraay`
 
 ---
