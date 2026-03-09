@@ -3,7 +3,7 @@
 
 🎓 Étudiant en **Master 1 Économie Appliquée** à l'Université Paris Cité  
 📍 Paris, France  
-🔍 En recherche d'un **stage de 4 à 6 mois** — disponible dès **avril 2026**  
+🔍 En recherche d'un **stage de 2 à 5 mois** — disponible dès **avril 2026**  
 🏆 Lauréat de la **Bourse Excellence Eiffel** du gouvernement français
 
 ---
