@@ -46,7 +46,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 ## 📂 Projets récents
 
 
-### 🗳️**[Impact du programme de protection sociale d'assurance maladie sur le reste à charge des ménages: Cadre d'analyse de Rubin(1974)](https://github.com/Ryantchokouaha-gif/Evaluation-de-l-impact-du-programme-PSAM-sur-le-reste-charge-des-menages-Analyse-de-Rubin))**
+### 🗳️**[Impact du programme de protection sociale d'assurance maladie sur le reste à charge des ménages: Cadre d'analyse de Rubin(1974)](https://github.com/Ryantchokouaha-gif/Evaluation-de-l-impact-du-programme-PSAM-sur-le-reste-charge-des-menages-Analyse-de-Rubin)**
 
 > Étude empirique d'un cas d'école évaluant l'impact d'un programme d'assurance maladie sur les dépenses de santé  des ménages défavorisés ruraux.
 >  Deux stratégies d'identification mobilisées (cadre d'analyse de Donald Rubin): comparaison avant/après (−45 % de dépenses, p < 2,2e-16) et comparaison traités/non-traités (RAC 2,85x plus élevé chez les non-bénéficiaires). Discussion critique des biais d'endogénéité et des méthdes de correction quasi-expérimentaux alternatifs (DiD, RDD, IV).
