@@ -45,6 +45,12 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 ## 📂 Projets récents
 
+
+### 🗳️**[Impact du programme de protection sociale d'assurance maladie sur le reste à charge des ménages: Cadre d'analyse de Rubin(1974)](https://github.com/Ryantchokouaha-gif/Analyse_des_donnees-electorales-Presidentielle_France_2022)**
+
+> Analyse de la structure du vote lors de la présidentielle 2022 à partir d'un tableau de contingence croisant 12 candidats et 18 régions.
+> L'étude mobilise des statistiques descriptives, une AFC pour réduire la dimension, et une CAH couplée au K-means pour identifier 3 clusters régionaux aux comportements électoraux distincts.
+
 ### 🗳️**[Analyse des données électorales — Présidentielle France 2022](https://github.com/Ryantchokouaha-gif/Analyse_des_donnees-electorales-Presidentielle_France_2022)**
 
 > Analyse de la structure du vote lors de la présidentielle 2022 à partir d'un tableau de contingence croisant 12 candidats et 18 régions.
