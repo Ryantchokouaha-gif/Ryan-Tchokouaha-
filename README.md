@@ -49,7 +49,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 ### 🗳️**[Mesure de la causalité: Evaluation de l'impact du programme PSAM sur le reste à charge des ménages](https://github.com/Ryantchokouaha-gif/Mesures-de-la-causalite-Evaluation-de-l-impact-du-programme-PSAM-par-trois-meyhodes-d-identification)**
 
 >Au regard des limites présentées par le cadre d'analyse de Rubin, cet étude se propose d'évaluation l'impact d'un programme d'assurance maladie sur les dépenses de santé des ménages défavorisées.
->Trois méthodes de mesure d'impact ont été mobilisé afin d'assurer une robustesse des résultats et une comprarabilité dans les résultats obtenus:L'expérimentation alétoire, la méthode des doubles moindre carré ordinaires basé sur les variables instrumentales, et la méthode des doubles différences.
+>Trois méthodes de mesure d'impact ont été mobilisé afin d'assurer une robustesse et une comprarabilité dans les résultats obtenus:L'expérimentation aléatoire, la méthode des doubles moindre carré ordinaires basée sur les variables instrumentales, et la méthode des doubles différences.
 
 
 
