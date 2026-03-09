@@ -46,10 +46,13 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 ## 📂 Projets récents
 
 
-### 🗳️**[Impact du programme de protection sociale d'assurance maladie sur le reste à charge des ménages: Cadre d'analyse de Rubin(1974)](https://github.com/Ryantchokouaha-gif/Analyse_des_donnees-electorales-Presidentielle_France_2022)**
+### 🗳️**[Impact du programme de protection sociale d'assurance maladie sur le reste à charge des ménages: Cadre d'analyse de Rubin(1974)]([https://github.com/Ryantchokouaha-gif/Analyse_des_donnees-electorales-Presidentielle_France_2022](https://github.com/Ryantchokouaha-gif/Evaluation-de-l-impact-du-programme-PSAM-sur-le-reste-charge-des-menages-Analyse-de-Rubin))**
 
-> Analyse de la structure du vote lors de la présidentielle 2022 à partir d'un tableau de contingence croisant 12 candidats et 18 régions.
-> L'étude mobilise des statistiques descriptives, une AFC pour réduire la dimension, et une CAH couplée au K-means pour identifier 3 clusters régionaux aux comportements électoraux distincts.
+> Étude empirique d'un cas d'école évaluant l'impact d'un programme d'assurance maladie sur les dépenses de santé  des ménages défavorisés ruraux.
+>  Deux stratégies d'identification mobilisées (cadre d'analyse de Donald Rubin): comparaison avant/après (−45 % de dépenses, p < 2,2e-16) et comparaison traités/non-traités (RAC 2,85x plus élevé chez les non-bénéficiaires). Discussion critique des biais d'endogénéité et des méthdes de correction quasi-expérimentaux alternatifs (DiD, RDD, IV).
+
+
+> `R studio` · `Evaluation d'impact.`
 
 ### 🗳️**[Analyse des données électorales — Présidentielle France 2022](https://github.com/Ryantchokouaha-gif/Analyse_des_donnees-electorales-Presidentielle_France_2022)**
 
@@ -88,12 +91,12 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 ### Master 1 — Économie Appliquée | Université Paris Cité *(2025 – 2026)*
 Formation axée sur l'analyse économique empirique et la modélisation quantitative, combinant rigueur théorique et maîtrise d'outils statistiques avancés.
 
-- 📐 Modélisation économétrique et statistique (modèles linéaires, panel, séries temporelles, variables instrumentales)
-- 💻 Analyse de données : R, Stata, Python, Excel VBA, Power BI
-- 🤖 Machine learning et prévision économique appliquée
-- 🏛️ Évaluation des politiques publiques et analyse coût-bénéfice
-- 🗄️ Traitement de bases de données massives (SQL, open data, sources administratives)
-- 📊 Restitution : rapports, visualisations, présentations professionnelles (Beamer, PowerPoint)
+- Modélisation économétrique et statistique (modèles linéaires, panel, séries temporelles, variables instrumentales)
+- Analyse de données : R, Stata, Python, Excel VBA, Power BI
+- Machine learning et prévision économique appliquée
+- Évaluation des politiques publiques et analyse coût-bénéfice
+- Traitement de bases de données massives (SQL, open data, sources administratives)
+- Restitution : rapports, visualisations, présentations professionnelles (Beamer, PowerPoint)
 
 ### Master 2 Recherche — Macroéconomie Monétaire et Bancaire | Université de Yaoundé 2 *(2023 – 2025)*
 🥈 **Vice-Major de promotion** — 2e sur 289 étudiants · Moyenne : **15,28/20**  
