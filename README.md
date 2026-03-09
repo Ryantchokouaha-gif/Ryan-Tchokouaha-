@@ -53,7 +53,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 
 
-> `R studio` · `Evaluation d'impact.` .`Doubles différences`.`Variables instrumentales`.`Expérimentation aléatoire`
+> `R studio` · `Evaluation d'impact` . `Doubles différences` . `Variables instrumentales` . `Expérimentation aléatoire`
 
 
 
