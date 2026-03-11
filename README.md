@@ -12,10 +12,10 @@
 
 Passionné par la data, la modélisation et l'analyse économique, je mobilise trois domaines de compétences complémentaires :
 
-- 📊 **Économétrie & Data Science** — Traitement de données, modélisation statistique, machine learning, traitement et visualisation de données
+- 📊 **Économétrie & Data Science** — Traitement de données, modélisation économétrique, analyse statistique, méthodes de machine learning.
 - 🏛️ **Évaluation des politiques publiques** — doubles différences, variables instrumentales, régression discontinue, expérimentation aléatoire, les méthodes de matching.
-- 🌐 **Analyse économique** — modélisation macroéconomique, analyse de conjoncture,analyse des comportements individuels, analyse des défaillances de marché et des décisions publiques, recherche en économie.
-- 📊 **Data visualisation** - Diagramme en barres, Tableaux de bord interactifs, analyse univariée et multivariée.
+- 🌐 **Analyse économique** — modélisation économique, aanalyse de conjoncture,analyse socioéconomique (coûts-bénéfices,coûts-efficacité) , analyse des défaillances de marché et des décisions publiques, recherche en économie.
+- 📊 **Data visualisation** - Tableaux de bord interactifs, analyse univariée et multivariée.
 
 Rigoureux et curieux, j'aime transformer des données brutes en **insights actionnables** et contribuer à des décisions fondées sur des analyses pertinentes.
 
@@ -48,7 +48,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 ### 🗳️**[Mesure de la causalité: Evaluation de l'impact du programme PSAM sur le reste à charge des ménages](https://github.com/Ryantchokouaha-gif/Mesures-de-la-causalite-Evaluation-de-l-impact-du-programme-PSAM-par-trois-meyhodes-d-identification)**
 
->Au regard des limites présentées par le cadre d'analyse de Rubin, cet étude se propose d'évaluation l'impact d'un programme d'assurance maladie sur les dépenses de santé des ménages défavorisées.
+>Au regard des limites présentées par le cadre d'analyse de Rubin, cet étude se propose d'évaluer l'impact d'un programme d'assurance maladie sur les dépenses de santé des ménages défavorisés.
 >Trois méthodes de mesure d'impact ont été mobilisé afin d'assurer une robustesse et une comprarabilité dans les résultats obtenus:L'expérimentation aléatoire, la méthode des doubles moindre carré ordinaires basée sur les variables instrumentales, et la méthode des doubles différences.
 
 
@@ -60,8 +60,8 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 ### 🗳️**[Impact du programme de protection sociale d'assurance maladie sur le reste à charge des ménages: Cadre d'analyse de Rubin(1974)](https://github.com/Ryantchokouaha-gif/Evaluation-de-l-impact-du-programme-PSAM-sur-le-reste-charge-des-menages-Analyse-de-Rubin)**
 
-> Étude empirique d'un cas d'école évaluant l'impact d'un programme d'assurance maladie sur les dépenses de santé  des ménages défavorisés ruraux.
->  Deux stratégies d'identification mobilisées (cadre d'analyse de Donald Rubin): comparaison avant/après (−45 % de dépenses, p < 2,2e-16) et comparaison traités/non-traités (RAC 2,85x plus élevé chez les non-bénéficiaires). Discussion critique des biais d'endogénéité et des méthdes de correction quasi-expérimentaux alternatifs (DiD, RDD, IV).
+> Étude empirique  évaluant l'impact d'un programme d'assurance maladie sur les dépenses de santé  des ménages défavorisés.
+>  Deux stratégies d'identification mobilisées (cadre d'analyse de Donald Rubin): une comparaison avant/après et une comparaison traités/non-traités . Il s'en suit une discussion critique des biais d'endogénéité de ce cadre d'analyse  et des méthdes de correction  appropriées.
 
 
 > `R studio` · `Evaluation d'impact.`.`Cadre d'analyse de Rubin`
