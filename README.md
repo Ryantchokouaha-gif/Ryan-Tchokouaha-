@@ -61,7 +61,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 ### 🗳️**[Impact du programme de protection sociale d'assurance maladie sur le reste à charge des ménages: Cadre d'analyse de Rubin(1974)](https://github.com/Ryantchokouaha-gif/Evaluation-de-l-impact-du-programme-PSAM-sur-le-reste-charge-des-menages-Analyse-de-Rubin)**
 
 > Étude empirique  évaluant l'impact d'un programme d'assurance maladie sur les dépenses de santé  des ménages défavorisés.
->  Deux stratégies d'identification mobilisées (cadre d'analyse de Donald Rubin): une comparaison avant/après et une comparaison traités/non-traités . Il s'en suit une discussion critique des biais d'endogénéité de ce cadre d'analyse  et des méthdes de correction  appropriées.
+>  Deux stratégies d'identification mobilisées (cadre d'analyse de Donald Rubin): une comparaison avant/après et une comparaison traités/non-traités . Il s'en suit une discussion critique des biais d'endogénéité de ce cadre d'analyse  et des méthodes de correction  appropriées.
 
 
 > `R studio` · `Evaluation d'impact.`.`Cadre d'analyse de Rubin`
