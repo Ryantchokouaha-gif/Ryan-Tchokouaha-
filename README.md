@@ -14,7 +14,7 @@ Passionné par la data, la modélisation et l'analyse économique, je mobilise t
 
 - 📊 **Économétrie & Data Science** — Traitement de données, modélisation économétrique, analyse statistique, méthodes de machine learning.
 - 🏛️ **Évaluation des politiques publiques** — doubles différences, variables instrumentales, régression discontinue, expérimentation aléatoire, les méthodes de matching.
-- 🌐 **Analyse économique** — modélisation économique, aanalyse de conjoncture,analyse socioéconomique (coûts-bénéfices,coûts-efficacité) , analyse des défaillances de marché et des décisions publiques, recherche en économie.
+- 🌐 **Analyse économique** — modélisation économique, analyse de conjoncture,analyse socioéconomique (coûts-bénéfices,coûts-efficacité) , analyse des défaillances de marché et des décisions publiques, recherche en économie.
 - 📊 **Data visualisation** - Tableaux de bord interactifs, analyse univariée et multivariée.
 
 Rigoureux et curieux, j'aime transformer des données brutes en **insights actionnables** et contribuer à des décisions fondées sur des analyses pertinentes.
