@@ -83,7 +83,7 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 
 ### 🏦 **[Modélisation des séries temporelles: Prévison  du prix des matières prémières](https://github.com/Ryantchokouaha-gif/Methodologie-Box-et-Jenkins-Application-sur-le-prix-du-petrole)**
 >Modélisation des prix mensuels des matières premières (Banque Mondiale, 2000–présent) selon la méthodologie Box-Jenkins.
-> L’analyse consiste à rendre la série exploitable, à comparer plusieurs modèles statistiques possibles et à retenir ceux qui décrivent le mieux la dynamique des prix. Après vérification de la qualité des résultats et comparaison des modèles, le plus pertinent ( le modéle à moyenne mobile d'ordre 1)  a été sélectionné afin de produire des prévisions à 8 et 20 mois.
+> L’analyse consiste à rendre la série exploitable, à comparer plusieurs modèles statistiques possibles et à retenir ceux qui décrivent le mieux la dynamique des prix. Après vérification de la qualité des résultats et comparaison des modèles, le plus pertinent ( le modèle à moyenne mobile d'ordre 1)  a été sélectionné afin de produire des prévisions à 8 et 20 mois.
 
 > `R Studio` · `Procédure Box-Jenkins` · `Processus Auto-regressif Moving Average`
 
