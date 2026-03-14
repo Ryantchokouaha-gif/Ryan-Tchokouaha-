@@ -10,7 +10,7 @@
  
 ## 🧠 À propos de moi
 
-Passionné par la data, la modélisation et l'analyse économique, je mobilise trois domaines de compétences complémentaires :
+Passionné par la data, la modélisation et l'analyse économique, je mobilise quatre domaines de compétences complémentaires :
 
 - 📊 **Économétrie & Data Science** — Traitement de données, modélisation économétrique, analyse statistique, méthodes de machine learning.
 - 🏛️ **Évaluation des politiques publiques** — doubles différences, variables instrumentales, régression discontinue, expérimentation aléatoire, les méthodes de matching.
