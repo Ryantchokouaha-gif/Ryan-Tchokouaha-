@@ -46,6 +46,14 @@ Rigoureux et curieux, j'aime transformer des données brutes en **insights actio
 ## 📂 Projets récents
 
 
+### 🏅**[Analyse tarifaire des Jeux Olympiques Paris 2024](https://github.com/Ryantchokouaha-gif/Analyse-Tarifaire-des-Jeux-Olympiques-Paris-2024.)**
+
+>Dans le cadre des Jeux Olympiques et Paralympiques de Paris 2024, j'ai conçu un rapport Power BI en 3 pages pour décrypter la politique de prix de la billetterie officielle. Le rapport couvre les cérémonies d'ouverture et de clôture, les épreuves olympiques et paralympiques, et met en lumière des écarts tarifaires saisissants, jusqu'à 2 700 € pour une place en catégorie A aux cérémonies olympiques, contre 45 € pour une place grand public aux Jeux Paralympiques.
+> À travers des visualisations interactives (cartes, graphiques temporels, comparaisons par discipline), ce projet révèle comment Paris 2024 a structuré sa stratégie de segmentation tarifaire entre sports, horaires et niveaux de prestige.
+
+>`Power BI` · `Power Query` . `DAX`
+
+
 ### 🗳️**[Le salaire influence t-il le fait de posséder un compte bancaire? cas de la Côte d'ivoire](https://github.com/Ryantchokouaha-gif/Salaire-et-Bancarisation-en-cote-d-ivoire)**
 
 >Ce travail examine l’effet du salaire sur la probabilité d’être bancarisé en Côte d’Ivoire à partir des données de l’Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) 2021–2022. Sur un échantillon de 4564 individus salariés, nous estimons un modèle Probit afin de quantifier l’influence du revenu salarial et d’autres variables de contrôles sur la détention d’un compte auprès d’une institution financière formelle. Les résultats montrent qu’une hausse de 1% du salaire annuel accroît la probabilité d’être bancarisé de 0,052 point de pourcentage.
